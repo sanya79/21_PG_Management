@@ -1,0 +1,16 @@
+# Maven
+target/
+*.log
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lombok
+*.class
