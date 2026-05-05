@@ -1,0 +1,13 @@
+{
+  "name": "pg-management",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

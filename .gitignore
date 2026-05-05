@@ -1,16 +1,6 @@
-# Maven
-target/
-*.log
-
-# IDE files
-.idea/
-*.iml
-*.ipr
-*.iws
-
-# OS files
+node_modules/
+dist/
+.env
+.env.local
 .DS_Store
-Thumbs.db
-
-# Lombok
-*.class
+*.log
